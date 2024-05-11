@@ -1,0 +1,1 @@
+import"./vue-124c939f.js";import{w as a}from"./element-plus-df7bc4e3.js";import{j as s}from"./@vue-9340bf27.js";const r=(e,o)=>{a({message:s("p",null,[s("span",null,e),s("i",{style:"color: teal"},o)])})};export{r as m};
